@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(160, 160, 160);
+}
+h1 {
+  margin: 50px;
+  padding-left: 700px;
+  color: white;
+}
+
+.portpic {
+  border-radius: 50%;
+}
+.info {
+  margin: 10px;
+  background-color: rgba(0, 0, 0, 0.329);
+
+  border: 2px solid black;
+  margin-left: 350px;
+  margin-right: 350px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+  color: white;
+}
+p {
+  font-size: 25px;
+  font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.maindiv {
+  display: flex;
+  margin: 50px;
+  gap: 30px;
+  padding: 50px;
+  color: white;
+}
+.ed {
+  border: 2px solid black;
+  padding: 40px;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0.329);
+  line-height: 1.5;
+}
+.skills {
+  border: 2px solid black;
+  padding: 40px;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0.329);
+}
+ul {
+  list-style: none;
+
+  font-size: 25px;
+  font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
+}
+li {
+  padding-left: 15px;
+}
+footer {
+  font-size: 25px;
+  font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100px;
+  padding-left: 700px;
+  background-color: black;
+  color: white;
+  padding-top: 40px;
+}
